@@ -1,0 +1,5 @@
+{
+    "require": {
+        "florianv/swap": "^2.6"
+    }
+}
